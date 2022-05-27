@@ -1,0 +1,116 @@
+	a{
+		color: #DAA520;
+		
+}
+	body{
+		margin: 0px !important;
+		width:100%;
+		height: 100%;
+		background-color: #0b3652;#1a364a
+		opacity: 0,5;
+		font-family:Arial, Helvetica, sans-serif;
+	}
+	
+	.fotovoltar{
+		float:left;
+		margin-left:10px;
+		margin-right: 0px;
+		margin-top: 40px;
+		padding:0px;
+		border:0px;
+		width:90px;
+		height:90px;
+	}
+	
+	.total {
+		width:100%;
+		height:100%;
+}
+	.tabelaa{
+		width:80%;
+		height: 100%;
+		background-color: #114a70;#1e4f6f
+		border-radius: 8px;
+		border-style: solid;
+		
+}
+	.teste{
+		margin: 0;
+		position: absolute;
+		left: 10%;
+		right: -10%;
+		height:100%;
+	}
+	hr{
+		border-color: #181818; 
+} 
+	p{
+		font: #909090;
+	}
+	td {
+		border-radius: 8px;
+		border-style: solid;
+		border-color: #000000;
+	}
+	td:hover{
+		border-color: #909090;
+		
+	}
+	td:hover h1,td:hover h2,td:hover h3, td:hover h4{
+		
+		color: #ffffff;
+	}
+	li:hover{
+		color: #ffffff;
+	}
+	.border:hover{
+		color: #ffffff;
+	}
+	h1{
+		font-size:40px;
+	}
+	h1,h2,h3,h4,ul{
+		color: #000000;
+	}
+	.informações{
+		font-size:20px;
+	}
+	.unica{
+		color:#1a364a;
+	}
+	.perfil{
+		margin:20px;
+		border-radius: 8px;
+	}
+	
+	.perfil{
+		width: 300px;
+		height: 300px;
+		border-radius: 200px;
+		border-style: solid;
+		border-color: #000000;
+	}
+	border:hover{
+		color: #ffffff;
+	}
+	.thiago{
+		width:40%;
+		height:95%;
+		background-color: #000000;
+		float: right;
+		float: top;
+		margin:5%;
+		border-radius: 5px;
+  }
+	.caio{
+		width:40%;
+		height:95%;
+		background-color: #000000;
+		float: left;
+		margin:5%;
+		border-radius: 5px;
+  }
+
+	.caio:hover, .thiago:hover, .fotovoltar:hover, .zap:hover, .din:hover, .mail:hover{
+		transform: scale(1.1);
+	}
